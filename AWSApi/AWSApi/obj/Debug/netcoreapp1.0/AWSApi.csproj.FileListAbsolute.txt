@@ -1,0 +1,11 @@
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\obj\Debug\netcoreapp1.0\AWSApi.csprojResolveAssemblyReference.cache
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\obj\Debug\netcoreapp1.0\AWSApi.csproj.CoreCompileInputs.cache
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\obj\Debug\netcoreapp1.0\AWSApi.AssemblyInfoInputs.cache
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\obj\Debug\netcoreapp1.0\AWSApi.AssemblyInfo.cs
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\bin\Debug\netcoreapp1.0\AWSApi.deps.json
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\bin\Debug\netcoreapp1.0\AWSApi.runtimeconfig.json
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\bin\Debug\netcoreapp1.0\AWSApi.runtimeconfig.dev.json
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\bin\Debug\netcoreapp1.0\AWSApi.dll
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\bin\Debug\netcoreapp1.0\AWSApi.pdb
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\obj\Debug\netcoreapp1.0\AWSApi.dll
+C:\Users\gvenkatesh\Documents\Visual Studio 2017\projects\AWSApi\AWSApi\obj\Debug\netcoreapp1.0\AWSApi.pdb
