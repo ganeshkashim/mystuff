@@ -1,0 +1,6 @@
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\ParseThreadIndex\ParseThreadIndex\bin\Debug\ParseThreadIndex.exe.config
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\ParseThreadIndex\ParseThreadIndex\bin\Debug\ParseThreadIndex.exe
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\ParseThreadIndex\ParseThreadIndex\bin\Debug\ParseThreadIndex.pdb
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\ParseThreadIndex\ParseThreadIndex\obj\Debug\ParseThreadIndex.csprojResolveAssemblyReference.cache
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\ParseThreadIndex\ParseThreadIndex\obj\Debug\ParseThreadIndex.exe
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\ParseThreadIndex\ParseThreadIndex\obj\Debug\ParseThreadIndex.pdb
